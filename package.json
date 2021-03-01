@@ -1,0 +1,20 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "## Table of Contents - [Installation](#installation) - [How to run](#run) - [About the Project](#project)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-M-Mansour/weatherApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-M-Mansour/weatherApp/issues"
+  },
+  "homepage": "https://github.com/Ahmed-M-Mansour/weatherApp#readme"
+}
